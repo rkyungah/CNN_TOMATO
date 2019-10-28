@@ -8,6 +8,6 @@
 
 #### 이미지 수집
 1) web crawling
-* google image downloader (https://github.com/hardikvasa/google-images-download)
-* bing image downloader (https://icrawler.readthedocs.io/en/latest/)
+   google image downloader (https://github.com/hardikvasa/google-images-download)
+   bing image downloader (https://icrawler.readthedocs.io/en/latest/)
 
