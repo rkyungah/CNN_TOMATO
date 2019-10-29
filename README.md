@@ -1,8 +1,6 @@
-<div>
-<p style="text-align: center;">
+<div align='center'>
 <img width = 700 src ="https://user-images.githubusercontent.com/55468829/67759682-3fd38f80-fa83-11e9-9bc1-f9e7fcc3a63d.jpg">
-</p>
-   </div>
+ </div>
 
 ## CNN project - tomato classification
 <br>
