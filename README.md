@@ -18,7 +18,7 @@
 <br>
 
 #### CNN
-`tensorflow`를 사용. 총 4개의 층을 쌓고 `Same padding`과 2X2 stride로 conv. <br>
+`tensorflow`를 사용. 총 4개의 층을 쌓고 `Same padding`과 `2X2 stride`로 conv. <br>
 ```
 optimizer = Adam
 batch_size = 100
