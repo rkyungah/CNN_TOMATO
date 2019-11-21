@@ -22,6 +22,7 @@ tensorflow를 사용. 총 4개의 층을 쌓고 Same padding과 2X2 stride로 co
 ```
 optimizer = Adam
 batch_size = 100
+```
 <br>
   ⓛ 익지 않은 토마토와 익은 토마토 사이의 노란빛 토마토는 대부분 익지 않음으로 분류됨을 확인.
 
